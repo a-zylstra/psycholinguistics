@@ -1,4 +1,15 @@
 import numpy as np 
+import spacy
+
+nlp = spacy.load("en_core_web_sm")
+
+def extract_main_verb(sentence):
+    doc = nlp(sentence)
+    return next(
+        (token.text for token in doc
+         if token.dep_ == "ROOT" and token.pos_ == "VERB"),
+        None
+    )
 
 def pre_process(df, dataset):
     # remove irrelevant columns
@@ -45,8 +56,15 @@ def pre_process(df, dataset):
     df["verb_of_interest_itemized"] = df["sentence_fragment"].str.split().str[-1] + "_" + df["item"].astype(str)
     df["verb_of_interest"] = df["sentence_fragment"].str.split().str[-1] 
 
+    df["matrix_verb"] = df["sentence_fragment"].map(
+    {s: extract_main_verb(s)
+     for s in df["sentence_fragment"].dropna().unique()}
+    )
+
+    df["matrix_verb_itemized"] = df["matrix_verb"] + "_" + df["item"]
+
     # average responses by participant then verb
-    average_user_response = df.groupby(["subjectID","verb_of_interest_itemized", "verb_of_interest"])["adjusted_response"].mean().reset_index()
-    average_verb_response = average_user_response.groupby(["verb_of_interest_itemized", "verb_of_interest"])["adjusted_response"].mean().sort_values().reset_index()
+    average_user_response = df.groupby(["subjectID","matrix_verb_itemized", "matrix_verb"])["adjusted_response"].mean().reset_index()
+    average_verb_response = average_user_response.groupby(["matrix_verb_itemized", "matrix_verb"])["adjusted_response"].mean().sort_values().reset_index()
 
     return average_user_response, average_verb_response
