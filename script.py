@@ -55,9 +55,6 @@ def pre_process(df, dataset):
     print(f"Ending with {len(df)}, dropping {number_dropped} rows.")    
 
     # get verb of interest
-    df["verb_of_interest_itemized"] = df["sentence_fragment"].str.split().str[-1] + "_" + df["item"].astype(str)
-    df["verb_of_interest"] = df["sentence_fragment"].str.split().str[-1] 
-
     df["matrix_verb"] = df["sentence_fragment"].map(
     {s: extract_main_verb(s)
      for s in df["sentence_fragment"].dropna().unique()}
