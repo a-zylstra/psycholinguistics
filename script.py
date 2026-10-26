@@ -72,8 +72,8 @@ def pre_process(df, dataset):
     ax = average_verb_response["adjusted_response"].plot(
         kind="bar"
         , rot=45
-        , xlabel="Matrix Verb"
-        , ylabel="Mean Adjusted Response"
+        , xlabel=""
+        , ylabel="Average Response"
         , title=f"{dataset}"
     )
 
