@@ -1,5 +1,7 @@
 import numpy as np 
 import spacy
+import matplotlib.pyplot as plt
+
 
 nlp = spacy.load("en_core_web_sm")
 
@@ -65,6 +67,17 @@ def pre_process(df, dataset):
 
     # average responses by participant then verb
     average_user_response = df.groupby(["subjectID","matrix_verb_itemized", "matrix_verb"])["adjusted_response"].mean().reset_index()
-    average_verb_response = average_user_response.groupby(["matrix_verb_itemized", "matrix_verb"])["adjusted_response"].mean().sort_values().reset_index()
+    average_verb_response = average_user_response.groupby(["matrix_verb_itemized", "matrix_verb"])["adjusted_response"].mean().sort_values().reset_index().set_index("matrix_verb")
 
+    ax = average_verb_response["adjusted_response"].plot(
+        kind="bar"
+        , rot=45
+        , xlabel="Matrix Verb"
+        , ylabel="Mean Adjusted Response"
+        , title=f"{dataset}"
+    )
+
+    plt.setp(ax.get_xticklabels(), ha="right")
+    plt.tight_layout()
+    plt.show()
     return average_user_response, average_verb_response
