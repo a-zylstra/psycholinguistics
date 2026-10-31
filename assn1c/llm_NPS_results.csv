@@ -1,21 +1,401 @@
-fragment,completion
-The latest report disclosed the data,"The latest report disclosed the data on global carbon emissions, revealing a sharp increase in the past decade."
-The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about property division but also about the emotional harm caused by the prolonged conflict between the spouses.
-The outspoken activist asserted the decision,was a pivotal moment that would spark widespread conversations about the rights and responsibilities of citizens in a rapidly changing society.
-The naive child believed the character,The naive child believed the character was a real person living in the next village.
-The sports commentator guessed the winner,would be a surprise to many fans.
-The advisory committee stated the opinion,that further investigation was necessary before any definitive conclusions could be drawn.
-The job applicant believed the interviewer,The job applicant believed the interviewer was genuinely interested in understanding their qualifications and potential fit for the role.
-The cautious pedestrian noticed the driver,"had lifted their hand in a gesture of acknowledgment, signaling a momentary pause before proceeding across the street."
-The anxious student inferred the score,from the professor's subtle nod and the silence that followed.
-The CIA director confirmed the rumor,that a major cyber attack had been thwarted through an unprecedented collaboration between intelligence agencies.
-The senior expert reported the data,to the committee with a detailed analysis of the findings.
-The determined contestant revealed the money,"and waved the envelope in the air, her voice trembling with a mix of excitement and disbelief."
-The basketball star forgot the lady,at the airport.
-The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the itinerary and considering the client's preferences.
-The office manager indicated the problem,"with a nod and a sigh, clearly frustrated by the recurring issues."
-The senior manager promised the bonus,to the team as a token of appreciation for their hard work during the challenging quarter.
-The skeptical secretary doubted the statement,and asked for evidence before taking any action.
-The teaching assistant demonstrated the operation,"with careful precision, step by step, ensuring that each action was clear and easy to follow."
-The union leader understood the crisis,and knew that the workers' livelihoods depended on finding a swift and fair resolution.
-The injured woman suspected the teenager,of stealing her wallet during the chaotic moment.
+run_number,fragment,completion
+1,The latest report disclosed the data,that had been previously hidden from the public eye.
+2,The latest report disclosed the data,that had been previously undisclosed by the government.
+3,The latest report disclosed the data,"that had been previously concealed by the government, sparking immediate public debate and calls for greater transparency."
+4,The latest report disclosed the data,that had been previously hidden due to strict confidentiality protocols.
+5,The latest report disclosed the data,"that had been previously hidden from the public eye, raising concerns about transparency and accountability in the organization."
+6,The latest report disclosed the data,"that had been kept confidential for years, revealing significant insights into the company's financial practices."
+7,The latest report disclosed the data,"that had been hidden for years, revealing shocking insights into the company's financial practices."
+8,The latest report disclosed the data,"that had been hidden for years, revealing shocking insights into the company's financial practices."
+9,The latest report disclosed the data,The latest report disclosed the data that had been previously hidden by the company's management.
+10,The latest report disclosed the data,"that had been previously hidden from public view, raising concerns about transparency and accountability in government operations."
+11,The latest report disclosed the data,that had been previously concealed by the authorities.
+12,The latest report disclosed the data,"that had been hidden for years, revealing shocking details about the company's financial misconduct."
+13,The latest report disclosed the data,"that had been kept confidential for years, revealing significant insights into the company's financial practices."
+14,The latest report disclosed the data,"The latest report disclosed the data that had been hidden for years, revealing significant changes in the industry's landscape."
+15,The latest report disclosed the data,The latest report disclosed the data that had been previously hidden due to concerns over public safety and economic stability.
+16,The latest report disclosed the data,that had been previously hidden by the authorities.
+17,The latest report disclosed the data,that had been previously hidden due to concerns over public perception and regulatory compliance.
+18,The latest report disclosed the data,that had been previously concealed by the authorities.
+19,The latest report disclosed the data,"that had been hidden for years, revealing shocking insights into the company's financial mismanagement."
+20,The latest report disclosed the data,that had been previously hidden by the authorities.
+1,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about money but about the breakdown of trust and communication between the couple.
+2,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not about the children's well-being but about one parent's desire for revenge.
+3,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about property division but also about the emotional well-being of the children involved.
+4,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about money but about the breakdown of trust and the emotional damage caused by years of conflict.
+5,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not about the children's well-being but about the husband's inability to maintain a stable relationship.
+6,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about money but about the fundamental breakdown of trust and communication between the couple.
+7,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about property division but also about the emotional well-being of the children.
+8,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about property division but also about the emotional well-being of the children involved.
+9,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about property division but also about the emotional harm caused by the spouse's infidelity.
+10,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about财产 division but also about the emotional well-being of the children.
+11,The divorce lawyer argued the issue,"The divorce lawyer argued the issue was not about the marriage itself, but about the unfair distribution of assets."
+12,The divorce lawyer argued the issue,"The divorce lawyer argued the issue was not about the marriage itself, but about the unfair distribution of assets."
+13,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not about the children's well-being but about one spouse's refusal to accept the reality of the marriage's breakdown.
+14,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about money but about the emotional harm caused by years of marital strife.
+15,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about money but about the fundamental breakdown of trust and communication between the couple.
+16,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not about the children's well-being but about one spouse's refusal to accept the reality of the marriage's end.
+17,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about property division but also about the emotional harm caused by the couple's prolonged conflict.
+18,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about money but about the emotional damage caused by years of unresolved conflict.
+19,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not about the children's well-being but about gaining control over the ex-spouse's financial assets.
+20,The divorce lawyer argued the issue,The divorce lawyer argued the issue was not just about money but about the emotional damage caused by years of marital discord.
+1,The outspoken activist asserted the decision,The outspoken activist asserted the decision was a clear violation of fundamental human rights and a direct assault on the principles of justice and equality.
+2,The outspoken activist asserted the decision,was a direct response to the systemic injustice that had long been ignored by those in power.
+3,The outspoken activist asserted the decision,was a clear violation of the community's rights and called for immediate legal action to rectify the injustice.
+4,The outspoken activist asserted the decision,was a clear violation of human rights and called for immediate international intervention.
+5,The outspoken activist asserted the decision,was a direct response to the growing public discontent over the government's handling of the crisis.
+6,The outspoken activist asserted the decision,was a clear violation of human rights and called for immediate international intervention.
+7,The outspoken activist asserted the decision,was a direct response to the growing public pressure for corporate accountability.
+8,The outspoken activist asserted the decision,was a direct response to the growing public demand for transparency and accountability in government actions.
+9,The outspoken activist asserted the decision,was a critical step toward dismantling systemic inequalities and empowering marginalized communities.
+10,The outspoken activist asserted the decision,was a necessary step toward achieving true equality and justice for all marginalized communities.
+11,The outspoken activist asserted the decision,The outspoken activist asserted the decision was a clear violation of human rights and a dangerous step toward authoritarian control.
+12,The outspoken activist asserted the decision,was a direct response to the growing public demand for accountability and transparency in government operations.
+13,The outspoken activist asserted the decision,The outspoken activist asserted the decision was a clear betrayal of the community's trust and a direct violation of the principles they had fought for.
+14,The outspoken activist asserted the decision,was a direct response to the growing public pressure and widespread protests demanding accountability.
+15,The outspoken activist asserted the decision,was a direct response to the growing public demand for accountability and transparency in corporate practices.
+16,The outspoken activist asserted the decision,was a direct response to the growing public demand for transparency and accountability in government operations.
+17,The outspoken activist asserted the decision,The outspoken activist asserted the decision was a direct response to the growing public demand for accountability and transparency in government actions.
+18,The outspoken activist asserted the decision,was a clear indication of the government's disregard for the rights of marginalized communities.
+19,The outspoken activist asserted the decision,was a crucial step toward achieving greater transparency and accountability in government.
+20,The outspoken activist asserted the decision,The outspoken activist asserted the decision was a clear step backward for environmental protections and a betrayal of the public's trust.
+1,The naive child believed the character,The naive child believed the character was a real person who would come to their rescue.
+2,The naive child believed the character,The naive child believed the character was a real friend who would always protect and guide them through every challenge.
+3,The naive child believed the character,The naive child believed the character was a real friend who would always protect them from harm.
+4,The naive child believed the character,The naive child believed the character was real and that their words carried the power to change the world.
+5,The naive child believed the character,The naive child believed the character was real and could hear their thoughts.
+6,The naive child believed the character,The naive child believed the character was real and would soon come to life.
+7,The naive child believed the character,The naive child believed the character was a real person who would soon come to live with them.
+8,The naive child believed the character,The naive child believed the character was real and would soon come to life.
+9,The naive child believed the character,The naive child believed the character was real and that their actions could change the world.
+10,The naive child believed the character,The naive child believed the character was a real person who would come to rescue them from the woods.
+11,The naive child believed the character,The naive child believed the character was truly alive.
+12,The naive child believed the character,The naive child believed the character was real and that their actions could shape the world around them.
+13,The naive child believed the character,The naive child believed the character was real and that the story was happening around the corner.
+14,The naive child believed the character,The naive child believed the character was real and would soon come to life.
+15,The naive child believed the character,The naive child believed the character was a real person living in the next house down the street.
+16,The naive child believed the character,The naive child believed the character was truly alive and could hear every word he spoke.
+17,The naive child believed the character,The naive child believed the character was truly a friend who would always protect and guide them.
+18,The naive child believed the character,The naive child believed the character was a real person who would come to their house every night to tell them stories.
+19,The naive child believed the character,The naive child believed the character was real and could come to life anytime.
+20,The naive child believed the character,The naive child believed the character was real and that their actions would have real consequences.
+1,The sports commentator guessed the winner,would be a surprise to many fans.
+2,The sports commentator guessed the winner,would be the underdog team from the eastern conference.
+3,The sports commentator guessed the winner,would be the underdog team from the western conference.
+4,The sports commentator guessed the winner,would be the underdog team from the western conference.
+5,The sports commentator guessed the winner,would be a surprise to many fans.
+6,The sports commentator guessed the winner,would be the team with the strongest offense and the most experienced players.
+7,The sports commentator guessed the winner,would be the underdog team coming from behind in the final quarter.
+8,The sports commentator guessed the winner,would be a close race until the final lap.
+9,The sports commentator guessed the winner,would be a close race until the final minutes of the game.
+10,The sports commentator guessed the winner,would be a surprise to many fans.
+11,The sports commentator guessed the winner,would be a surprise to many fans.
+12,The sports commentator guessed the winner,would be the underdog team from the Eastern Conference.
+13,The sports commentator guessed the winner,would be the underdog team from the southern conference.
+14,The sports commentator guessed the winner,would be the team that had surprised everyone in the previous match.
+15,The sports commentator guessed the winner,would be the team from the eastern conference.
+16,The sports commentator guessed the winner,would be the team from the northern league.
+17,The sports commentator guessed the winner,would be the team with the strongest defense and the most experienced players.
+18,The sports commentator guessed the winner,would be the team with the strongest defense and fastest players.
+19,The sports commentator guessed the winner,"would be the hometown team, but the crowd erupted in cheers when an underdog from the neighboring state pulled off the upset."
+20,The sports commentator guessed the winner,would be the team with the strongest offense and the most experienced quarterback.
+1,The advisory committee stated the opinion,that the proposed policy needed further review before being finalized.
+2,The advisory committee stated the opinion,that the proposed policy required further review before it could be approved.
+3,The advisory committee stated the opinion,that the proposed policy would have significant implications for public health and safety.
+4,The advisory committee stated the opinion,that the proposed policy required further review before being finalized.
+5,The advisory committee stated the opinion,that the proposed policy required further review before being implemented.
+6,The advisory committee stated the opinion,that the proposed policy required further review before it could be finalized.
+7,The advisory committee stated the opinion,that the proposed policy required further review before being finalized.
+8,The advisory committee stated the opinion,that the proposed policy required immediate review due to potential regulatory conflicts.
+9,The advisory committee stated the opinion,that the proposed policy would require significant revisions before it could be considered for approval.
+10,The advisory committee stated the opinion,that the proposed policy required further review before it could be finalized.
+11,The advisory committee stated the opinion,that the proposed policy required further review before being finalized.
+12,The advisory committee stated the opinion,that further research was necessary before any definitive conclusions could be drawn.
+13,The advisory committee stated the opinion,that the proposed policy requires further review before it can be implemented.
+14,The advisory committee stated the opinion,that the proposed policy would have significant long-term implications for public health and economic stability.
+15,The advisory committee stated the opinion,that the proposed policy would have significant long-term benefits for the community.
+16,The advisory committee stated the opinion,that the proposed policy required further review before being finalized.
+17,The advisory committee stated the opinion,that the proposed policy required further review before being implemented.
+18,The advisory committee stated the opinion,that the proposed policy required further review before being implemented.
+19,The advisory committee stated the opinion,that the proposed policy would require significant revisions to align with current regulatory standards.
+20,The advisory committee stated the opinion,that further research was necessary before any definitive conclusions could be drawn.
+1,The job applicant believed the interviewer,The job applicant believed the interviewer was genuinely interested in understanding their qualifications and potential contribution to the team.
+2,The job applicant believed the interviewer,was being overly critical and not giving fair consideration to his qualifications.
+3,The job applicant believed the interviewer,was unprepared for the discussion about the company's recent strategic shifts.
+4,The job applicant believed the interviewer,was unprepared for the interview.
+5,The job applicant believed the interviewer,was unprepared for the interview.
+6,The job applicant believed the interviewer,was being overly critical and not giving fair consideration to his qualifications.
+7,The job applicant believed the interviewer,was unprepared for the interview.
+8,The job applicant believed the interviewer,was not prepared for the interview.
+9,The job applicant believed the interviewer,was not prepared for the interview.
+10,The job applicant believed the interviewer,The job applicant believed the interviewer was genuinely interested in understanding their qualifications and potential contributions to the team.
+11,The job applicant believed the interviewer,was not prepared for the interview.
+12,The job applicant believed the interviewer,was not paying enough attention to the details of his resume.
+13,The job applicant believed the interviewer,The job applicant believed the interviewer was being unfair during the assessment.
+14,The job applicant believed the interviewer,was not prepared for the interview.
+15,The job applicant believed the interviewer,was not adequately prepared for the position.
+16,The job applicant believed the interviewer,The job applicant believed the interviewer was genuinely interested in understanding their qualifications and potential contributions to the team.
+17,The job applicant believed the interviewer,was unprepared for the interview.
+18,The job applicant believed the interviewer,was unprepared for the interview.
+19,The job applicant believed the interviewer,was not paying enough attention to the details of the candidate's experience.
+20,The job applicant believed the interviewer,was not adequately prepared for the role.
+1,The cautious pedestrian noticed the driver,had swerved abruptly to avoid the child running into the street.
+2,The cautious pedestrian noticed the driver,had barely glanced in their direction before accelerating into the intersection.
+3,The cautious pedestrian noticed the driver,had barely glanced in their direction before accelerating into the intersection.
+4,The cautious pedestrian noticed the driver,had barely glanced in their direction before accelerating into the intersection.
+5,The cautious pedestrian noticed the driver,had swerved into the wrong lane just moments before.
+6,The cautious pedestrian noticed the driver,had not seen the red light and quickly stepped back onto the curb.
+7,The cautious pedestrian noticed the driver,had already begun to swerve toward the sidewalk.
+8,The cautious pedestrian noticed the driver,had swerved suddenly into the intersection.
+9,The cautious pedestrian noticed the driver,had barely lifted his foot from the curb before the car screeched to a halt just inches away.
+10,The cautious pedestrian noticed the driver,had swerved abruptly to avoid hitting the child who had run into the street.
+11,The cautious pedestrian noticed the driver,had a serious expression on their face and slowly pulled the car to the side of the road.
+12,The cautious pedestrian noticed the driver,had slowed down just enough to give a subtle nod of acknowledgment.
+13,The cautious pedestrian noticed the driver,had barely glanced in their direction before accelerating into the intersection.
+14,The cautious pedestrian noticed the driver,had barely lifted their foot from the curb before the car came to a sudden stop.
+15,The cautious pedestrian noticed the driver,had slowed down just enough to signal their intention to turn left.
+16,The cautious pedestrian noticed the driver,had barely lifted their foot from the curb before the car came to a sudden stop.
+17,The cautious pedestrian noticed the driver,"was signaling with his hand, but the car's headlights were already blindingly bright as it approached the crosswalk."
+18,The cautious pedestrian noticed the driver,had barely tapped the brakes before the car came to a sudden halt just inches away from the crosswalk.
+19,The cautious pedestrian noticed the driver,had slowed down just enough to give a subtle nod of acknowledgment.
+20,The cautious pedestrian noticed the driver,had swerved abruptly to avoid the child running into the street.
+1,The anxious student inferred the score,from the teacher's subtle nod and the faint smile that briefly crossed his lips.
+2,The anxious student inferred the score,from the professor's faint smile and the murmurs of the class.
+3,The anxious student inferred the score,from the teacher's subtle glance and the faint nod of approval.
+4,The anxious student inferred the score,from the teacher's frown and the silence that followed.
+5,The anxious student inferred the score,from the faint smile on the professor's lips.
+6,The anxious student inferred the score,from the teacher's subtle glance and the tense silence that followed.
+7,The anxious student inferred the score,from the professor's narrowed eyes and the silence that followed his answer.
+8,The anxious student inferred the score,from the professor's subtle facial expression and the brief pause before announcing the results.
+9,The anxious student inferred the score,from the faintly visible numbers on the chalkboard at the back of the classroom.
+10,The anxious student inferred the score,from the professor's brief nod and the tense silence that followed.
+11,The anxious student inferred the score,from the teacher's hesitant expression and the faint smile that briefly crossed his lips.
+12,The anxious student inferred the score,from the faint smile on the professor's face as he handed back the exam.
+13,The anxious student inferred the score,from the subtle cues in the professor's expression and the tone of his voice.
+14,The anxious student inferred the score,from the teacher's subtle facial expression and the pause that followed the announcement.
+15,The anxious student inferred the score,from the teacher's subtle nod and the way the class collectively exhaled in relief.
+16,The anxious student inferred the score,from the teacher's subtle expression and the way the classroom fell silent.
+17,The anxious student inferred the score,from the professor's furrowed brow and the silence that followed the exam's distribution.
+18,The anxious student inferred the score,from the subtle cues in the teacher's expression.
+19,The anxious student inferred the score,from the faint glances exchanged between the professor and the other students.
+20,The anxious student inferred the score,from the faint smile on the professor's face as he handed back the exam.
+1,The CIA director confirmed the rumor,that a covert operation had been underway for years.
+2,The CIA director confirmed the rumor,that a major intelligence operation had been compromised.
+3,The CIA director confirmed the rumor,that a covert operation had been underway for several months.
+4,The CIA director confirmed the rumor,that a covert operation had been quietly underway for years.
+5,The CIA director confirmed the rumor,that the agency had been monitoring the situation for months.
+6,The CIA director confirmed the rumor,that a covert operation had been underway for years without official acknowledgment.
+7,The CIA director confirmed the rumor,that the agency had been secretly monitoring the suspect's communications for months.
+8,The CIA director confirmed the rumor,that a major cybersecurity breach had been orchestrated by a foreign intelligence agency.
+9,The CIA director confirmed the rumor,that a covert operation had been quietly underway for several years.
+10,The CIA director confirmed the rumor,that a major cybersecurity breach had occurred within the agency's internal systems.
+11,The CIA director confirmed the rumor,that a covert operation had been launched to track down the missing scientist.
+12,The CIA director confirmed the rumor,that a covert operation had been authorized in response to the recent intelligence breach.
+13,The CIA director confirmed the rumor,that the agency had been secretly monitoring the suspect's communications for months.
+14,The CIA director confirmed the rumor,that a new surveillance program was being implemented without proper oversight.
+15,The CIA director confirmed the rumor,that a major cyber operation had been successfully carried out against a foreign intelligence agency.
+16,The CIA director confirmed the rumor,that a major cybersecurity breach had been orchestrated by a foreign intelligence agency.
+17,The CIA director confirmed the rumor,that a covert operation had been conducted in the region without official disclosure.
+18,The CIA director confirmed the rumor,that a covert operation had been authorized in response to recent intelligence reports.
+19,The CIA director confirmed the rumor,that a covert operation had been quietly underway for several years.
+20,The CIA director confirmed the rumor,that a covert operation had been underway for years without official acknowledgment.
+1,The senior expert reported the data,to the committee with meticulous attention to detail.
+2,The senior expert reported the data,to the committee for immediate review and potential action.
+3,The senior expert reported the data,to the committee in a detailed presentation.
+4,The senior expert reported the data,to the committee without any prior warning.
+5,The senior expert reported the data,to the committee with a detailed analysis of the findings.
+6,The senior expert reported the data,to the committee and emphasized the importance of immediate action.
+7,The senior expert reported the data,to the committee without any prior discussion.
+8,The senior expert reported the data,to the team leader for further analysis.
+9,The senior expert reported the data,to the team lead for immediate analysis and decision-making.
+10,The senior expert reported the data,to the committee with a detailed analysis of the findings.
+11,The senior expert reported the data,to the committee with a detailed analysis of the findings.
+12,The senior expert reported the data,"to the committee, highlighting the critical trends observed in the recent market fluctuations."
+13,The senior expert reported the data,to the committee with a detailed analysis of the findings.
+14,The senior expert reported the data,to the committee with a detailed analysis of the findings.
+15,The senior expert reported the data,to the committee without any prior discussion.
+16,The senior expert reported the data,to the committee without any prior discussion.
+17,The senior expert reported the data,to the committee without any prior discussion.
+18,The senior expert reported the data,to the committee with detailed analysis and recommendations for further action.
+19,The senior expert reported the data,to the committee with meticulous attention to detail.
+20,The senior expert reported the data,to the committee with meticulous accuracy and thorough analysis.
+1,The determined contestant revealed the money,and stood motionless as the screen flashed the final amount.
+2,The determined contestant revealed the money,"and confidently moved on to the next round, eyes locked on the prize."
+3,The determined contestant revealed the money,"and held the envelope tightly in their hands, heart racing as they prepared to break the silence."
+4,The determined contestant revealed the money,and took a deep breath before pressing the final button.
+5,The determined contestant revealed the money,and the crowd erupted in cheers as the prize was officially added to their growing collection.
+6,The determined contestant revealed the money,and stood tall despite the mounting pressure from the audience.
+7,The determined contestant revealed the money,and stood motionless as the screen displayed the final amount.
+8,The determined contestant revealed the money,and turned the screen to show the audience the massive jackpot waiting to be claimed.
+9,The determined contestant revealed the money,and confidently stepped forward to face the next challenge.
+10,The determined contestant revealed the money,and confidently stepped forward to accept the prize.
+11,The determined contestant revealed the money,"The determined contestant revealed the money and held her breath, waiting for the lights to flash and the numbers to appear."
+12,The determined contestant revealed the money,and stood tall as the crowd erupted in cheers.
+13,The determined contestant revealed the money,"and confidently moved on to the next round, eyes locked on the growing prize."
+14,The determined contestant revealed the money,"and stood tall, eyes locked on the next challenge ahead."
+15,The determined contestant revealed the money,and turned to face the audience with a confident smile.
+16,The determined contestant revealed the money,"and held the envelope tightly in their hands, heart pounding as they prepared to open it."
+17,The determined contestant revealed the money,and raised her arms in triumph as the audience erupted into cheers.
+18,The determined contestant revealed the money,and turned the final envelope to reveal a life-changing sum that would forever alter the course of their future.
+19,The determined contestant revealed the money,"The determined contestant revealed the money in a dramatic flourish, holding the envelope high above their head as the audience erupted into cheers."
+20,The determined contestant revealed the money,"and confidently walked toward the next round, eyes locked on the prize."
+1,The basketball star forgot the lady,at the airport.
+2,The basketball star forgot the lady,at the airport.
+3,The basketball star forgot the lady,at the airport.
+4,The basketball star forgot the lady,at the grocery store.
+5,The basketball star forgot the lady,at the airport.
+6,The basketball star forgot the lady,at the airport.
+7,The basketball star forgot the lady,at the airport.
+8,The basketball star forgot the lady,at the airport.
+9,The basketball star forgot the lady,at the airport.
+10,The basketball star forgot the lady,at the restaurant until she called him back.
+11,The basketball star forgot the lady,at the airport.
+12,The basketball star forgot the lady,at the airport.
+13,The basketball star forgot the lady,at the airport.
+14,The basketball star forgot the lady,at the airport.
+15,The basketball star forgot the lady,"at the event, leaving her standing alone in the crowd."
+16,The basketball star forgot the lady,at the airport.
+17,The basketball star forgot the lady,who was waiting for him at the bus stop.
+18,The basketball star forgot the lady,at the airport.
+19,The basketball star forgot the lady,at the airport.
+20,The basketball star forgot the lady,at the grocery store.
+1,The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the itinerary and considering the client's preferences.
+2,The travel agent suggested the plan,to maximize the couple's experience by including cultural landmarks and comfortable accommodations.
+3,The travel agent suggested the plan,that would allow the couple to visit multiple countries in a single trip while keeping their budget under control.
+4,The travel agent suggested the plan,The travel agent suggested the plan as a way to experience the best of the region in a short amount of time.
+5,The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the client's preferences and budget constraints.
+6,The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the client's preferences and budget.
+7,The travel agent suggested the plan,"The travel agent suggested the plan, which included a mix of cultural landmarks and relaxed beach days."
+8,The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the couple's budget and travel preferences.
+9,The travel agent suggested the plan,"The travel agent suggested the plan, which included a week in Paris followed by a day trip to Versailles."
+10,The travel agent suggested the plan,"The travel agent suggested the plan, which included a mix of cultural attractions and relaxing beach days."
+11,The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the client's preferences and budget.
+12,The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the client's preferences and budget.
+13,The travel agent suggested the plan,The travel agent suggested the plan as a perfect way to experience the country's hidden gems and immerse oneself in its rich cultural heritage.
+14,The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the couple's preferences and budget.
+15,The travel agent suggested the plan,The travel agent suggested the plan after reviewing the couple's preferences and budget.
+16,The travel agent suggested the plan,that would allow the couple to explore both cities without rushing through either.
+17,The travel agent suggested the plan,to maximize the couple's experience while staying within their budget.
+18,The travel agent suggested the plan,"The travel agent suggested the plan, which included a seven-day trip to Paris with a mix of sightseeing and leisure activities."
+19,The travel agent suggested the plan,The travel agent suggested the plan after carefully reviewing the couple's preferences and budget.
+20,The travel agent suggested the plan,to maximize the couple's experience while staying within their budget.
+1,The office manager indicated the problem,with a frustrated sigh and a pointed glance towards the malfunctioning printer.
+2,The office manager indicated the problem,with a sharp look towards the technician.
+3,The office manager indicated the problem,with a raised eyebrow and a pointed glance toward the overflowing inbox on his desk.
+4,The office manager indicated the problem,with a frustrated sigh and pointed toward the cluttered desk at the far end of the room.
+5,The office manager indicated the problem,with a frustrated sigh and gestured toward the stack of unopened mail on her desk.
+6,The office manager indicated the problem,with a frustrated sigh and a wave of his hand toward the cluttered desk.
+7,The office manager indicated the problem,with a frustrated sigh and pointed to the overflowing inbox on her desk.
+8,The office manager indicated the problem,with a frustrated sigh and pointed toward the overflowing inbox on the desk.
+9,The office manager indicated the problem,with a frustrated sigh and gestured toward the overflowing inbox on her desk.
+10,The office manager indicated the problem,with a frustrated sigh and pointed to the stack of unopened mail on her desk.
+11,The office manager indicated the problem,with a frustrated sigh and pointed to the overflowing inbox on her desk.
+12,The office manager indicated the problem,with a frustrated sigh and pointed toward the overloaded filing cabinet in the corner.
+13,The office manager indicated the problem,with a furrowed brow and a pointed gesture toward the overloaded printer.
+14,The office manager indicated the problem,with a frustrated sigh and pointed toward the broken printer on the far end of the room.
+15,The office manager indicated the problem,with a frustrated sigh and pointed to the overflowing inbox on her desk.
+16,The office manager indicated the problem,with a frustrated sigh and a pointed glance toward the malfunctioning printer.
+17,The office manager indicated the problem,"with a furrowed brow and a sigh, signaling the weight of the situation."
+18,The office manager indicated the problem,"with a sharp gesture, pointing toward the malfunctioning printer in the corner."
+19,The office manager indicated the problem,with a firm nod towards the malfunctioning printer.
+20,The office manager indicated the problem,with a frustrated sigh and gestured toward the overflowing inbox on her desk.
+1,The senior manager promised the bonus,to the team as a gesture of appreciation for their hard work during the challenging quarter.
+2,The senior manager promised the bonus,to the team as a gesture of appreciation for their hard work during the challenging quarter.
+3,The senior manager promised the bonus,would be distributed based on individual performance evaluations.
+4,The senior manager promised the bonus,would be distributed based on individual performance metrics and team contributions.
+5,The senior manager promised the bonus,to the team as a reward for their hard work and dedication throughout the year.
+6,The senior manager promised the bonus,would be distributed based on individual performance reviews.
+7,The senior manager promised the bonus,to the team as a token of appreciation for their hard work during the challenging quarter.
+8,The senior manager promised the bonus,to the team if they met the quarter's sales targets.
+9,The senior manager promised the bonus,to the team for their outstanding performance during the quarter.
+10,The senior manager promised the bonus,would be distributed based on the team's overall performance in the upcoming quarter.
+11,The senior manager promised the bonus,to the team if they met the quarterly targets.
+12,The senior manager promised the bonus,to the team if they met the quarterly targets.
+13,The senior manager promised the bonus,to the team as a token of appreciation for their hard work during the challenging quarter.
+14,The senior manager promised the bonus,would be awarded once the project was successfully completed.
+15,The senior manager promised the bonus,would be distributed based on the team's overall performance in the upcoming quarter.
+16,The senior manager promised the bonus,to the team as a gesture of appreciation for their hard work during the quarter.
+17,The senior manager promised the bonus,to the team as a token of appreciation for their hard work during the challenging quarter.
+18,The senior manager promised the bonus,to the team if they met the quarterly targets.
+19,The senior manager promised the bonus,to the team as a token of appreciation for their hard work during the challenging quarter.
+20,The senior manager promised the bonus,to the team as a token of appreciation for their hard work during the challenging quarter.
+1,The skeptical secretary doubted the statement,and asked for evidence before proceeding with any action.
+2,The skeptical secretary doubted the statement,because it contradicted the official records she had reviewed earlier that day.
+3,The skeptical secretary doubted the statement,and insisted on verifying the details before taking any action.
+4,The skeptical secretary doubted the statement,because it lacked any supporting evidence or credible sources to back its claims.
+5,The skeptical secretary doubted the statement,because it contradicted the official records she had reviewed earlier that day.
+6,The skeptical secretary doubted the statement,and asked for further evidence before accepting it as true.
+7,The skeptical secretary doubted the statement,because she had seen too many similar claims dismissed without proper investigation.
+8,The skeptical secretary doubted the statement,and decided to investigate further.
+9,The skeptical secretary doubted the statement,and asked for evidence before accepting it as true.
+10,The skeptical secretary doubted the statement,because it contradicted the official records she had reviewed earlier that day.
+11,The skeptical secretary doubted the statement,because it contradicted the official records she had reviewed earlier that day.
+12,The skeptical secretary doubted the statement,and asked for evidence before accepting it as true.
+13,The skeptical secretary doubted the statement,and asked for additional proof before proceeding with any action.
+14,The skeptical secretary doubted the statement,and asked for evidence before endorsing it.
+15,The skeptical secretary doubted the statement,because she had seen too many similar claims dismissed without proper evidence.
+16,The skeptical secretary doubted the statement,because she had seen too many similar claims fall apart under scrutiny.
+17,The skeptical secretary doubted the statement,because it contradicted the official records she had reviewed earlier that day.
+18,The skeptical secretary doubted the statement,and asked for evidence before accepting it as true.
+19,The skeptical secretary doubted the statement,and asked for more evidence before accepting it as true.
+20,The skeptical secretary doubted the statement,and asked for evidence before acknowledging its validity.
+1,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was visible and understandable to all students present."
+2,The teaching assistant demonstrated the operation,"with a clear and precise motion, ensuring each step was visible and understandable to the students."
+3,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was visible and understandable to the students."
+4,The teaching assistant demonstrated the operation,"with careful attention to each step, ensuring that every student followed along clearly."
+5,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was followed accurately by the students."
+6,The teaching assistant demonstrated the operation,"with clear and deliberate steps, ensuring that each action was visible and understandable to the students."
+7,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was fully understood by the students."
+8,The teaching assistant demonstrated the operation,"with a clear and precise motion, ensuring that each step was visible and understandable to the students."
+9,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was easily followed by the students."
+10,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was visible and understandable to all students present."
+11,The teaching assistant demonstrated the operation,"with clear and deliberate steps, ensuring that each student could follow along and understand the process."
+12,The teaching assistant demonstrated the operation,"of the equipment step by step, ensuring that each student followed along carefully."
+13,The teaching assistant demonstrated the operation,"with clear and precise steps, ensuring that each participant could follow along without confusion."
+14,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was easily followed by the students."
+15,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was visible and understandable to the students."
+16,The teaching assistant demonstrated the operation,"with clear and precise movements, ensuring that each step was fully understood by the students."
+17,The teaching assistant demonstrated the operation,"with a clear and step-by-step approach, ensuring that each part of the process was easily understood by the students."
+18,The teaching assistant demonstrated the operation,"with a clear and methodical approach, ensuring that each step was explained in simple terms."
+19,The teaching assistant demonstrated the operation,"with clear and deliberate movements, ensuring that each step was understood by the students."
+20,The teaching assistant demonstrated the operation,"with a clear and precise motion, ensuring that each step was followed accurately by the students."
+1,The union leader understood the crisis,and knew that the workers' demands could not be ignored.
+2,The union leader understood the crisis,and knew that the workers' demands could no longer be ignored.
+3,The union leader understood the crisis,and knew that the workers' demands could no longer be ignored.
+4,The union leader understood the crisis,and knew that the workers' livelihoods depended on a swift and decisive action.
+5,The union leader understood the crisis,and knew that the workers’ livelihoods depended on a swift and decisive response.
+6,The union leader understood the crisis,and knew that the workers' demands could no longer be ignored.
+7,The union leader understood the crisis,and knew that the workers' demands could not be ignored without risking a complete breakdown of trust and cooperation.
+8,The union leader understood the crisis,and knew that the workers' demands could no longer be ignored.
+9,The union leader understood the crisis,and took immediate steps to address the growing concerns among the workers.
+10,The union leader understood the crisis,and knew that the workers' demands could no longer be ignored.
+11,The union leader understood the crisis,and knew that the workers’ livelihoods depended on a swift and decisive response.
+12,The union leader understood the crisis,and knew that the workers' livelihoods depended on a swift and decisive response.
+13,The union leader understood the crisis,and immediately called for a紧急 meeting to address the growing concerns among the workers.
+14,The union leader understood the crisis,and knew that the only way to protect the workers' livelihoods was to take a bold and decisive stand.
+15,The union leader understood the crisis,and knew that the workers' safety was the top priority.
+16,The union leader understood the crisis,and knew that the only way to protect the workers' rights was to confront the management directly.
+17,The union leader understood the crisis,and knew that the only way to prevent further losses was to negotiate a deal that would protect the workers' livelihoods.
+18,The union leader understood the crisis,and knew that the workers' livelihoods depended on a swift and decisive response.
+19,The union leader understood the crisis,and knew that the workers' demands could not be ignored.
+20,The union leader understood the crisis,and knew that the only way to prevent further damage was to negotiate a swift and fair resolution.
+1,The injured woman suspected the teenager,of hiding something in the backpack she had found near the riverbank.
+2,The injured woman suspected the teenager,of stealing her wallet during the chaotic moment of the accident.
+3,The injured woman suspected the teenager,of holding a weapon in his jacket pocket.
+4,The injured woman suspected the teenager,of hiding something in the backpack she had found by the side of the road.
+5,The injured woman suspected the teenager,of stealing her wallet during the chaotic moment of the accident.
+6,The injured woman suspected the teenager,of hiding something in the backpack she had found near the park.
+7,The injured woman suspected the teenager,of hiding something in the bushes nearby.
+8,The injured woman suspected the teenager,of hiding something in the backpack she had picked up from the roadside.
+9,The injured woman suspected the teenager,of hiding something in the backpack she had found nearby.
+10,The injured woman suspected the teenager,of holding something back.
+11,The injured woman suspected the teenager,of hiding something in the backpack she had found by the roadside.
+12,The injured woman suspected the teenager,of hiding something in the bushes nearby.
+13,The injured woman suspected the teenager,of hiding something in the backpack she had dropped.
+14,The injured woman suspected the teenager,of hiding something in the bushes nearby.
+15,The injured woman suspected the teenager,of hiding something in the woods nearby.
+16,The injured woman suspected the teenager,of trying to cover up the accident.
+17,The injured woman suspected the teenager,of hiding something in the backpack she had dropped.
+18,The injured woman suspected the teenager,of hiding something in the bushes nearby.
+19,The injured woman suspected the teenager,of hiding something in the backpack she had dropped.
+20,The injured woman suspected the teenager,of hiding something in the backpack she had dropped.
